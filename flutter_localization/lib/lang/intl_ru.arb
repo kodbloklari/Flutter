@@ -1,0 +1,13 @@
+{
+  "@@last_modified": "2019-08-17T14:41:21.843156",
+  "txtMerhabaDunya": "Привет мир",
+  "@txtMerhabaDunya": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "txtHayatiSev": "Люблю жизнь",
+  "@txtHayatiSev": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
